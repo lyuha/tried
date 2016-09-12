@@ -1,0 +1,4 @@
+// Hello, World!
+package main
+
+main() = println("Hello, World!")
