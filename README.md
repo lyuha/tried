@@ -1,5 +1,10 @@
-# Try Langs
+# Try Something!
 
-Try programming languages with toy programs, programming problems and exercise.
+Try something.
+
+# Done
+
+
 
 Inspired by [Hello, World!](https://github.com/leachim6/hello-world).
+
